@@ -41,6 +41,7 @@
 ![calendar](preview/calendar.png)
 
 ### Report
-* User can see status or all his projects and his status in all projects.
+* User can see status or all his projects and his status in all projects. Now new change.
+
 
 ![report](preview/report.png)
